@@ -56,9 +56,16 @@ The model achieved the following performance metrics:
 - **Validation IoU**: 0.3255  
 - **Validation Accuracy**: 0.8321
 
-![Description](images/img_1.png)
-![Description](images/img_2.png)
-![Description](images/img_3.png)
+### Result Images
+The following image (`img_1.png`) shows the final comparison after each epoch, displaying the ground truth mask and the predicted mask (two values per row):
+
+![Final Epoch Comparison](images/img_1.png)
+
+### Compare after full training
+The following images (`img_2.png` and `img_3.png`) show the results after training. Each row consists of three values: the input image, the ground truth mask, and the predicted mask.
+
+![Post-Training Result 1](images/img_2.png)
+![Post-Training Result 2](images/img_3.png)
 
 
 ### Performance Comparison  
