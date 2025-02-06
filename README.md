@@ -54,7 +54,12 @@ The model achieved the following performance metrics:
 - **Train IoU**: 0.4801  
 - **Train Accuracy**: 0.8874  
 - **Validation IoU**: 0.3255  
-- **Validation Accuracy**: 0.8321  
+- **Validation Accuracy**: 0.8321
+
+![Description](images/img_1.png)
+![Description](images/img_2.png)
+![Description](images/img_3.png)
+
 
 ### Performance Comparison  
 - **TensorFlow vs Numpy**: TensorFlow operations were compared with their Numpy equivalents, showing that TensorFlow operations are **significantly faster** (e.g., TensorFlow processed all images in 0.78 seconds, while Numpy took 240 seconds).
